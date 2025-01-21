@@ -31,8 +31,8 @@ Clique no botão "Sortear Amigo" para escolher um nome aleatório da lista.
 
 O nome sorteado será exibido abaixo do botão.
 
-#Estrutura do projeto
-###O projeto consiste em três arquivos principais:
+# Estrutura do projeto
+### O projeto consiste em três arquivos principais:
 
 index.html: Contém a estrutura HTML da página.
 
